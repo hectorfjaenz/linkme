@@ -135,8 +135,8 @@ body {
         }
 
         .container img {
-            max-width: 40%;
-            height: 40%;
+            max-width: 50%;
+            height: 50%;
             padding: 2em 0 0;
             object-fit: cover;
         }
